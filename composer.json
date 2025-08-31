@@ -1,5 +1,5 @@
 {
-    "name": "lanos/laravel-cashier-stripe-connect",
+    "name": "noah-wilderom/laravel-cashier-stripe-connect",
     "description": "Adds Stripe Connect functionality to Laravel's main billing package, Cashier.",
 	"keywords": ["laravel", "stripe", "stripe-connect", "billing"],
     "type": "library",
